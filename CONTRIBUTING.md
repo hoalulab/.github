@@ -2,7 +2,7 @@
 
 First off, thank you for taking the time to contribute!🎉💪
 
-The following is a set of guidelines for contributing to any [vnbrokers](https://github.com/vnbrokers) repository. Individual repos may add or refine these rules in their own `CONTRIBUTING.md`; in that case, the repo-level guide takes precedence over this one.
+The following is a set of guidelines for contributing to any [hoalulab](https://github.com/hoalulab) repository. Individual repos may add or refine these rules in their own `CONTRIBUTING.md`; in that case, the repo-level guide takes precedence over this one.
 
 These are mostly guidelines, not rules — use your best judgment, and feel free to propose changes in a pull request.
 
@@ -34,7 +34,7 @@ Following these guidelines helps to communicate that you respect the time of the
 ## AI Usage Policy
 
 > [!IMPORTANT]
-> Repositories under [vnbrokers](https://github.com/vnbrokers) do **not** accept pull requests that are fully or predominantly AI-generated. AI tools may be used solely in an assistive capacity.
+> Repositories under [hoalulab](https://github.com/hoalulab) do **not** accept pull requests that are fully or predominantly AI-generated. AI tools may be used solely in an assistive capacity.
 >
 > Repeated violations of this policy may result in your account being permanently banned from contributing.
 

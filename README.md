@@ -1,15 +1,18 @@
-> [!WARNING]
-> **VNBrokers is currently under active development and has not reached version 1.0.0.**
+# Hoalulab
 
-Repositories under the `@vnbrokers` organization are currently intended for **development, experimentation, and reference purposes only**.
+**Hoalulab** is a community-driven open-source initiative dedicated to building, exploring, and sharing software tools, libraries, and developer resources.
 
-Until the first stable `1.0.0` release, we **do not recommend using these libraries in production or for live trading**. APIs, data models, behavior, and repository structure may change without backward-compatibility guarantees.
+Our goal is to support the open-source community by encouraging collaboration, knowledge sharing, and experimentation, with a particular interest in financial technology, securities APIs, and developer tooling.
 
-For production integrations, please refer to the **official APIs, documentation, and SDKs where available** from the respective securities providers. Their developer documentation and API resources have improved significantly and should be considered the primary source of truth.
+We believe in learning together, building in the open, and making technology more accessible to everyone.
 
 ## Official Developer Resources
 
-### Securities companies
+We encourage developers to explore and prioritize the official resources provided by securities companies and financial technology providers.
+
+### API & SDK Documentation
+
+**Securities Companies**
 
 - **DNSE** — https://developers.dnse.com.vn/docs/guide/intro/api_platform
 - **Entrade** — https://hdsd2.entrade.com.vn/entrade-api
@@ -17,11 +20,42 @@ For production integrations, please refer to the **official APIs, documentation,
 - **SSI** — https://developers.ssi.com.vn/docs/api-reference
 - **TCBS** — https://developers.tcbs.com.vn/docs/v1.0.0/introduction
 
-### Other companies
-- **FireAnt** (Shinhan/Fmarket) — https://api.fireant.vn
+**Other Providers**
 
-## Project Status
+- **FireAnt** — https://api.fireant.vn
 
-VNBrokers is working toward a stable `1.0.0` release with consistent APIs, stronger compatibility guarantees, and better support across multiple brokers and programming languages.
+### Official MCP Servers
 
-Until then, feel free to explore the repositories, review the implementations, and use them as references.
+Several providers offer official **Model Context Protocol (MCP)** integrations, allowing compatible AI assistants and applications to interact with supported financial services.
+
+- **DNSE MCP** — https://www.dnse.com.vn/san-pham/dnse-mcp
+- **FHSC / Finhay MCP** — https://fhsc.com.vn/finhay-mcp
+- **SSI MCP** — https://mcp.ssi.com.vn/docs/ket-noi/
+- **TCBS MCP** — https://www.tcbs.com.vn/ca-nhan/san-pham/tcbs-mcp/
+
+For authentication, supported capabilities, permissions, and integration requirements, please refer to each provider's official documentation.
+
+## Project Status & Disclaimer
+
+> [!WARNING]
+> **Experimental Software — Not Recommended for Production or Live Trading**
+>
+> Repositories under the [`@hoalulab`](https://github.com/hoalulab) organization are primarily maintained for **open-source collaboration, education, research, experimentation, and reference purposes**.
+>
+> Unless explicitly stated otherwise, libraries that have not reached a stable `1.0.0` release should be considered experimental. Their APIs, data models, behavior, and internal structures may change without backward-compatibility guarantees.
+>
+> **We do not recommend using experimental libraries in production environments or for live trading.**
+>
+> For production integrations, please prioritize the **official APIs, SDKs, documentation, and MCP services** provided by the respective securities companies.
+
+Hoalulab is an independent open-source initiative and is not officially affiliated with, endorsed by, or supported by the securities providers listed above, unless explicitly stated otherwise.
+
+## Community & Contributions
+
+Hoalulab is built around the principles of **openness, collaboration, and continuous learning**.
+
+We welcome developers, contributors, and enthusiasts who want to explore ideas, improve existing tools, share knowledge, or contribute to open-source projects.
+
+Whether you are fixing a bug, improving documentation, proposing a feature, or simply exploring the code, your participation is appreciated.
+
+**Built in the open, for the community.**
